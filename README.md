@@ -3,7 +3,7 @@ My first Artificial Intelligence Game! Fighter Theater! Check it out
 
 
 I found a fun AI game to learn and to build. You can watch the game from here: https://www.youtube.com/watch?v=pOvc_FPU4D8
-Those heros just play games by themselves and make strategies and decisions autonomously!
+Those heroes just play games by themselves and make strategies and decisions autonomously!
 
 The meat of the project is the state machine. State machine has a lot of different states. It jumps to next state if it meets the condition of its previous state. Every state can have its' own action. 
 <img src="https://github.com/SheldonGeek/AI-Game-Fighter-Theater/blob/master/img/stateMachine.png"  height="300" >
